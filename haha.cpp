@@ -4,7 +4,7 @@
 * Desription: HaHa string to Latin string converter. 
 * Given an input string in HaHa, this will produce all Latin equivalents based on the rules at www.maxwellabrams.com/sandbox/ha.php
 * 
-* This is written in C++ for speed. On my test machine, a 26-ha long string took 58 seconds in C++, 14 minutes in Java, and crashed the broswer in JS.
+* This is written in C++ for speed. On my test machine, a 26-ha long string took 25 seconds in C++, 14 minutes in Java, and crashed the broswer in JS.
 *
 * Compile instructions: gcc haha.cpp -o ha.out
 * Usage example: ./ha.out ha > ha_output.txt
