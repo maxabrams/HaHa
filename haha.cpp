@@ -18,7 +18,7 @@
 #include <string.h>
 
 #define MAX_VAL 26 //Maximum number to use (z = 26)
-#define ARR_SIZE 50 //Maximum 
+#define ARR_SIZE 50 //Maximum length of HaHa string (using an array for maximum speed)
 
 /*
 * Convert input string of HaHa to a number of Ha's.
