@@ -52,8 +52,7 @@ void print(int arr[], int arr_size){
 * Recursivley build a Latin equivalent string. 
 * Note: there are 2^(n-1) possibile Latin strings for each HaHa string
 */
-void makeCombo(int n, int i){
-  
+void makeCombo(int n, int i){  
   static int arr[ARR_SIZE];
  
   if (n == 0){
